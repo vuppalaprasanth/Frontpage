@@ -26,3 +26,4 @@ For anything else, just start a new topic on [our Community](https://tosdr.commu
 ### Attribution
 
 This file has been adapted from [Discourse](https://github.com/discourse/discourse)
+
